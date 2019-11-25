@@ -3,7 +3,7 @@ name: default
 
 workspace:
   base: /go
-  path: src/github.com/dinorows/go-drone-hello-world
+  path: Lecture 5/labs/git/go-drone-hello-world
 
 steps:
   - name: report
@@ -35,4 +35,4 @@ steps:
 volumes:
   - name: reports
     host:
-      path: /home/dev/work/src/github.com/dinorows/drone-go-git-test/reports
+      path: /user/docs/NU/_Csye7220.fa19/Lecture 5/labs/git/drone-go-git-test/reports
