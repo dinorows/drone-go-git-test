@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("hello NU from CSYE 7220!")
+	fmt.Println("hello NU from CSYE 7220, fall 19!")
 }
